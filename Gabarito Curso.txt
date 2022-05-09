@@ -1,0 +1,61 @@
+<!-- ############################################### -->
+<!-- ############ Gabarito ############-->
+<!-- #Dados Cabeçalho Pagina = <head></head> -->
+	<!-- #Titulo = <title></title> -->
+	<!-- #Padrão = <meta charset="utf-8"> -->
+
+<!-- ####### Formatação de texto #######-->
+	<!-- #Texto negrito = <strong></strong> -->
+	<!-- #Texto itálico = <em></em> -->
+	<!-- #Texto com anderline = <u></u> -->
+	<!-- #Texto traço erro = <strike></strike> -->
+
+<!-- #Cabeçalhos = <h1>, <h2>, <h3>, <h4>, <h5> e <h6> -->
+
+<!-- #Paragrafos = <p>-->
+
+<!-- #Linha horizontal = <hr> -->
+
+<!-- ############ Listas ##############-->
+	<!-- #Lista = <li></li> -->
+	
+	<!-- #Lista não ordenada = <ul></ul> -->
+		<!-- #Tipos listas não ondenadas: circle,square, disc -->
+	
+	<!-- #Lista ordenada = <ol></ol> -->
+		<!-- #Tipos listas ordenadas: 1, A, a, I, i-->
+
+<!-- ############ Imagem ##############-->
+	<img src="Caminho da imagem" width="Largura" height="Altura">
+
+<!-- ############ Link ##############-->	
+	a = tag para o link
+	href = link
+	<a href="Link ou pagina ">Nome do link</a>
+
+<!-- ############ Tabelas ##############-->	
+	
+	table = Tag para tabela
+	tr = Tag para as linhas da tabela
+	td = Conteúdos das linhas da tabela
+	th = Cabeçalho databela
+	rowspan = Mesclar linhas
+	colspan = Mesclar colinhas
+
+	<table border="1"> 
+		<tr>		
+			<th>Código</th>	
+		</tr>
+		<tr>
+			<td>11111</td>
+		</tr>
+
+		<tr>
+			<td rowspan="2">Desconto</td>
+			<td colspan="2">cupom1 -R$ 10</td>			
+		</tr>
+
+	</table>
+
+
+<!-- #################################### -->
