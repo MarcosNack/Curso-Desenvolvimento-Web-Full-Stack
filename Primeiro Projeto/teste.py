@@ -1,8 +1,1 @@
-import pandas as pd
-
-
-df = pd.read_excel()
-
-print('test')
-
-
+print("Olá, mundo!")
