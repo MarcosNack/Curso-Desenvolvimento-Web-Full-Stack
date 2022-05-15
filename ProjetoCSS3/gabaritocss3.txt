@@ -1,0 +1,36 @@
+Formatar Tags com Style
+###################################################################
+Incluir a tag "<style>" dentro do "head"
+Selecionar a Tag que deseja aplicar o style
+Exemplo:
+Seletor "p" (paragrafo)
+    <style type="text/css">
+        p{color: blue; background:rgb(200, 255, 0);}
+    </style>
+
+###################################################################
+Criar uma classe para aplicar o Style.
+Exemplo:
+#Criar a classe dentro do style
+    <style type="text/css">
+        .azul{
+            color: blue:
+        }
+    </style>
+#Referenciar a classe dentro da tag desejada.
+    <p classe="azul">    </p>
+
+###################################################################
+Criar uma ID para aplicar o Style.
+Exemplo:
+#Criar a ID dentro do style
+    <style type="text/css">
+        #principal{
+            background: blue:
+        }
+    </style>
+#Referenciar a ID dentro da tag body.
+    <body id="principal">
+
+    </body>
+
