@@ -36,3 +36,19 @@ Exemplo:
 
     </body>
 
+###################################################################
+Opção div coloca os conteúdos em linha 
+Exemplo:
+<div class="produto">
+    Produto 1
+</div>
+
+
+###################################################################
+Opção span coloca os conteúdos em sequência de linha
+Exemplo:
+<span id="assinatura1">
+    Marcos
+</span>
+
+
