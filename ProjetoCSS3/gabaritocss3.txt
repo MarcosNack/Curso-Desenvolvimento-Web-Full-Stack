@@ -10,6 +10,7 @@ Seletor "p" (paragrafo)
 
 ###################################################################
 Criar uma classe para aplicar o Style.
+Classe pode ser utilizado mais de uma ves
 Exemplo:
 #Criar a classe dentro do style
     <style type="text/css">
@@ -22,6 +23,7 @@ Exemplo:
 
 ###################################################################
 Criar uma ID para aplicar o Style.
+ID é orientado a ser utilizado apenas uma vez em cada projeto
 Exemplo:
 #Criar a ID dentro do style
     <style type="text/css">
