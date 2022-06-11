@@ -1,0 +1,12 @@
+.texto {
+    color: blue;
+    background: red;
+    background-color: chartreuse;
+}
+
+button{
+    background: blue;
+    width: 20%;
+    border: 2px solid;
+    
+}
